@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Poker{
   private String name;
-  private int hand;
+  int hand;
 
   public void setName(String name){
     this.name = name;
